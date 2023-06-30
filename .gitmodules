@@ -1,0 +1,3 @@
+[submodule "tic80-drive-demo"]
+	path = tic80-drive-demo
+	url = https://github.com/LettucePie/tic80-drive-demo.git
