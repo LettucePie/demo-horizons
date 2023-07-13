@@ -7,7 +7,7 @@ Current Roster of target Engines
 
 - LOVE2D
 - DragonRuby
-- GDevelop
+- Cocos
 - Defold
 - Unity (Rerun, I forgot most of it)
 - TIC-80
